@@ -1,0 +1,501 @@
+Order_ID,Month,Category,Region,Sales,Profit,Quantity,Discount
+ORD1000,Febuary,Groceries,TamilNadu,223.95,118.5,7,0.11
+ORD1001,October,Novels,Assam,459.04,-15.99,9,0.37
+ORD1002,June,Pixel Phone,Assam,897.8,165.56,9,0.47
+ORD1003,July,Groceries,Gujrat,926.5,499.89,7,0.47
+ORD1004,May,Furniture,Delhi,1805.83,446.36,2,0.18
+ORD1005,January,Groceries,TamilNadu,115.32,454.88,5,0.49
+ORD1006,April,Groceries,Assam,1279.94,270.76,3,0.32
+ORD1007,August,Pixel Phone,Delhi,65.05,-92.35,2,0.19
+ORD1008,January,Groceries,Assam,149.25,402.64,6,0.16
+ORD1009,April,Dress,Delhi,537.6,316.46,7,0.28
+ORD1010,August,Groceries,Delhi,774.2,136.6,7,0.3
+ORD1011,June,Pixel Phone,TamilNadu,614.59,483.01,1,0.12
+ORD1012,September,Furniture,Assam,1548.81,26.82,6,0.26
+ORD1013,September,Dress,TamilNadu,1425.97,-43.13,6,0.34
+ORD1014,March,Dress,TamilNadu,1612.54,252.11,8,0.27
+ORD1015,December,Dress,Delhi,1137.42,196.21,8,0.38
+ORD1016,September,Groceries,TamilNadu,1547.38,259.16,3,0.27
+ORD1017,August,Novels,TamilNadu,1700.23,311.89,6,0.35
+ORD1018,Febuary,Groceries,TamilNadu,71.93,102.49,7,0.35
+ORD1019,July,Dress,TamilNadu,674.59,401.46,2,0.13
+ORD1020,March,Furniture,Delhi,1182.77,-86.65,4,0.05
+ORD1021,April,Novels,Gujrat,960.4,293.72,9,0.23
+ORD1022,January,Groceries,Gujrat,1447.48,45.31,6,0.33
+ORD1023,January,Groceries,Delhi,767.41,294.25,6,0.41
+ORD1024,June,Groceries,TamilNadu,1237.73,128.18,9,0.16
+ORD1025,July,Furniture,Delhi,1245.1,368.86,4,0.36
+ORD1026,May,Pixel Phone,Delhi,1251.9,413.31,2,0.38
+ORD1027,September,Dress,Gujrat,1651.66,64.0,3,0.17
+ORD1028,November,Dress,Gujrat,1759.28,250.65,4,0.07
+ORD1029,May,Dress,Delhi,1170.17,123.06,9,0.37
+ORD1030,August,Groceries,Gujrat,1645.37,179.19,4,0.32
+ORD1031,Febuary,Groceries,Delhi,384.82,381.5,8,0.05
+ORD1032,June,Furniture,Assam,1227.7,-76.87,7,0.19
+ORD1033,January,Dress,Gujrat,1444.14,77.74,1,0.45
+ORD1034,April,Furniture,Assam,1197.36,289.21,4,0.38
+ORD1035,October,Pixel Phone,Delhi,1685.63,13.92,5,0.48
+ORD1036,May,Groceries,Assam,1812.33,42.12,2,0.39
+ORD1037,January,Pixel Phone,Delhi,1653.4,52.81,9,0.48
+ORD1038,October,Groceries,TamilNadu,1009.7,420.42,6,0.03
+ORD1039,May,Dress,Delhi,1242.31,301.94,2,0.27
+ORD1040,November,Groceries,TamilNadu,681.39,80.56,8,0.27
+ORD1041,Febuary,Furniture,TamilNadu,1426.97,347.96,7,0.15
+ORD1042,Febuary,Novels,Assam,1426.46,471.34,1,0.26
+ORD1043,November,Pixel Phone,Delhi,872.95,490.55,2,0.33
+ORD1044,Febuary,Novels,Gujrat,1885.22,26.78,6,0.32
+ORD1045,November,Groceries,TamilNadu,1962.71,36.87,8,0.5
+ORD1046,Febuary,Groceries,Delhi,1154.89,204.56,6,0.24
+ORD1047,November,Pixel Phone,Gujrat,1693.07,19.9,4,0.27
+ORD1048,March,Groceries,Assam,290.85,-17.81,9,0.45
+ORD1049,November,Dress,TamilNadu,604.82,201.33,3,0.19
+ORD1050,October,Groceries,Assam,966.07,32.84,1,0.03
+ORD1051,May,Dress,TamilNadu,1284.84,140.76,5,0.09
+ORD1052,July,Groceries,Assam,1191.34,0.15,6,0.29
+ORD1053,March,Pixel Phone,Delhi,1315.78,341.29,1,0.5
+ORD1054,January,Pixel Phone,Gujrat,1051.17,175.81,3,0.42
+ORD1055,July,Pixel Phone,TamilNadu,644.89,468.11,6,0.45
+ORD1056,December,Dress,TamilNadu,927.66,39.15,4,0.33
+ORD1057,March,Furniture,TamilNadu,432.51,209.88,2,0.4
+ORD1058,June,Novels,TamilNadu,532.39,468.65,6,0.45
+ORD1059,December,Pixel Phone,Assam,231.53,416.54,8,0.04
+ORD1060,October,Furniture,Gujrat,131.99,125.61,9,0.45
+ORD1061,May,Pixel Phone,Assam,1215.83,432.02,2,0.47
+ORD1062,November,Groceries,Gujrat,1386.17,-40.95,5,0.49
+ORD1063,March,Pixel Phone,TamilNadu,1362.52,-84.34,8,0.15
+ORD1064,December,Groceries,Delhi,1623.77,450.52,3,0.45
+ORD1065,September,Novels,Assam,1315.11,4.46,8,0.35
+ORD1066,April,Pixel Phone,Assam,1488.84,354.72,1,0.04
+ORD1067,December,Pixel Phone,Assam,1444.94,330.12,6,0.42
+ORD1068,April,Dress,TamilNadu,276.83,199.74,2,0.19
+ORD1069,October,Novels,TamilNadu,1878.33,133.14,7,0.32
+ORD1070,August,Furniture,Assam,77.48,233.58,3,0.07
+ORD1071,December,Groceries,Delhi,1829.59,206.65,7,0.16
+ORD1072,Febuary,Novels,Gujrat,952.41,15.79,1,0.08
+ORD1073,May,Furniture,TamilNadu,393.05,96.66,1,0.05
+ORD1074,June,Pixel Phone,TamilNadu,751.13,270.71,1,0.26
+ORD1075,October,Furniture,Gujrat,1570.02,461.85,8,0.36
+ORD1076,August,Groceries,TamilNadu,1308.06,0.05,3,0.27
+ORD1077,December,Dress,Gujrat,155.21,-39.51,4,0.45
+ORD1078,November,Dress,Gujrat,1913.39,-56.34,9,0.12
+ORD1079,Febuary,Furniture,Delhi,1400.29,463.05,1,0.43
+ORD1080,May,Groceries,Assam,1563.09,20.94,2,0.25
+ORD1081,January,Dress,Delhi,356.38,323.03,6,0.11
+ORD1082,August,Groceries,TamilNadu,1125.7,366.32,8,0.43
+ORD1083,August,Dress,Gujrat,390.9,427.64,9,0.37
+ORD1084,May,Groceries,TamilNadu,861.29,217.63,6,0.14
+ORD1085,August,Groceries,Gujrat,80.99,315.5,7,0.2
+ORD1086,December,Novels,TamilNadu,722.28,-73.17,6,0.5
+ORD1087,July,Furniture,TamilNadu,1153.81,-70.96,9,0.38
+ORD1088,May,Pixel Phone,Assam,1750.18,-27.45,5,0.08
+ORD1089,August,Novels,Assam,436.0,223.89,1,0.48
+ORD1090,December,Dress,TamilNadu,1204.06,335.65,6,0.44
+ORD1091,November,Pixel Phone,Delhi,270.51,-70.29,9,0.04
+ORD1092,October,Novels,Delhi,549.34,448.73,6,0.03
+ORD1093,March,Groceries,Delhi,1049.94,376.24,3,0.23
+ORD1094,May,Novels,Delhi,1543.13,393.86,4,0.07
+ORD1095,November,Furniture,TamilNadu,1747.68,400.68,6,0.24
+ORD1096,September,Pixel Phone,Assam,1300.39,271.99,9,0.26
+ORD1097,April,Novels,Assam,1622.79,215.21,8,0.16
+ORD1098,September,Dress,Assam,716.79,144.63,4,0.07
+ORD1099,August,Pixel Phone,TamilNadu,75.07,146.31,5,0.33
+ORD1100,June,Dress,Assam,878.62,236.22,2,0.28
+ORD1101,March,Dress,TamilNadu,208.02,190.91,9,0.28
+ORD1102,October,Novels,TamilNadu,851.77,79.79,2,0.31
+ORD1103,September,Groceries,Gujrat,339.94,-52.22,1,0.07
+ORD1104,June,Groceries,TamilNadu,1007.32,276.99,5,0.41
+ORD1105,December,Dress,TamilNadu,1093.01,187.51,5,0.14
+ORD1106,October,Dress,Assam,1385.92,380.63,3,0.09
+ORD1107,July,Novels,Assam,1497.19,374.19,4,0.37
+ORD1108,Febuary,Furniture,TamilNadu,1164.13,-67.38,6,0.14
+ORD1109,October,Furniture,TamilNadu,668.63,494.29,2,0.16
+ORD1110,November,Novels,Assam,1436.13,-27.92,7,0.28
+ORD1111,Febuary,Furniture,Gujrat,794.26,148.29,5,0.32
+ORD1112,April,Groceries,TamilNadu,431.96,291.33,2,0.44
+ORD1113,September,Groceries,Delhi,65.23,283.73,3,0.22
+ORD1114,January,Groceries,Assam,426.3,-91.89,9,0.13
+ORD1115,January,Dress,Delhi,180.12,51.5,3,0.49
+ORD1116,January,Dress,Assam,1079.06,-38.21,5,0.44
+ORD1117,June,Novels,Assam,1084.75,396.69,2,0.32
+ORD1118,June,Novels,Delhi,1699.3,245.27,3,0.17
+ORD1119,Febuary,Furniture,Delhi,1822.4,195.94,4,0.28
+ORD1120,March,Furniture,TamilNadu,1231.89,73.79,4,0.3
+ORD1121,December,Furniture,Gujrat,1362.44,480.93,3,0.02
+ORD1122,May,Furniture,TamilNadu,384.86,257.13,7,0.02
+ORD1123,March,Dress,TamilNadu,632.11,201.61,7,0.4
+ORD1124,December,Novels,Assam,840.08,304.4,8,0.38
+ORD1125,November,Furniture,Gujrat,691.7,287.28,9,0.49
+ORD1126,April,Novels,Assam,775.47,351.72,6,0.17
+ORD1127,Febuary,Groceries,Delhi,1608.65,309.81,7,0.26
+ORD1128,September,Dress,TamilNadu,1625.4,490.45,9,0.06
+ORD1129,May,Novels,Gujrat,1149.69,-18.56,4,0.24
+ORD1130,September,Dress,Delhi,73.31,464.13,7,0.39
+ORD1131,December,Furniture,TamilNadu,1216.84,414.56,2,0.47
+ORD1132,May,Pixel Phone,TamilNadu,279.93,68.16,8,0.46
+ORD1133,March,Furniture,Assam,1598.66,73.55,3,0.17
+ORD1134,June,Groceries,Gujrat,1955.73,436.07,7,0.12
+ORD1135,June,Dress,Delhi,543.58,319.34,4,0.02
+ORD1136,December,Dress,Assam,886.35,277.58,6,0.17
+ORD1137,October,Pixel Phone,Delhi,1971.11,192.71,9,0.28
+ORD1138,Febuary,Novels,Assam,1628.22,217.77,9,0.16
+ORD1139,March,Pixel Phone,TamilNadu,166.08,360.5,3,0.09
+ORD1140,January,Dress,Assam,323.26,-55.08,1,0.32
+ORD1141,July,Dress,Assam,546.4,80.55,1,0.47
+ORD1142,August,Furniture,Gujrat,1860.19,37.47,1,0.36
+ORD1143,November,Pixel Phone,Assam,1804.34,53.43,9,0.24
+ORD1144,January,Dress,Assam,1505.48,138.88,1,0.18
+ORD1145,Febuary,Furniture,Delhi,1689.83,366.96,9,0.33
+ORD1146,April,Groceries,Delhi,1105.91,269.97,5,0.44
+ORD1147,November,Groceries,TamilNadu,1043.08,197.49,9,0.05
+ORD1148,June,Pixel Phone,Assam,1258.95,135.76,1,0.43
+ORD1149,March,Dress,Delhi,106.47,296.83,5,0.19
+ORD1150,April,Novels,Delhi,172.57,461.96,2,0.42
+ORD1151,September,Groceries,Delhi,1149.63,357.55,2,0.38
+ORD1152,April,Groceries,TamilNadu,1658.14,210.27,7,0.07
+ORD1153,Febuary,Novels,Gujrat,524.76,381.01,1,0.39
+ORD1154,October,Pixel Phone,TamilNadu,835.74,228.96,8,0.48
+ORD1155,Febuary,Dress,Gujrat,512.63,173.45,5,0.03
+ORD1156,September,Dress,TamilNadu,631.62,171.65,6,0.5
+ORD1157,January,Pixel Phone,TamilNadu,1803.57,437.99,6,0.41
+ORD1158,May,Furniture,TamilNadu,1459.22,416.63,1,0.36
+ORD1159,May,Pixel Phone,Assam,1754.12,147.73,2,0.36
+ORD1160,July,Novels,Delhi,1487.79,118.9,5,0.11
+ORD1161,August,Novels,TamilNadu,1428.13,77.35,1,0.12
+ORD1162,December,Groceries,TamilNadu,800.73,497.28,9,0.23
+ORD1163,July,Novels,Gujrat,1223.78,-83.35,8,0.45
+ORD1164,December,Dress,Delhi,558.81,44.75,3,0.37
+ORD1165,March,Pixel Phone,TamilNadu,1881.62,22.94,2,0.27
+ORD1166,November,Pixel Phone,Assam,1249.32,288.47,7,0.19
+ORD1167,June,Pixel Phone,TamilNadu,1958.31,-53.87,6,0.11
+ORD1168,August,Groceries,TamilNadu,802.94,32.99,4,0.07
+ORD1169,December,Pixel Phone,TamilNadu,255.27,57.54,6,0.41
+ORD1170,November,Groceries,Gujrat,476.23,463.96,5,0.42
+ORD1171,May,Dress,Assam,1441.48,182.37,5,0.44
+ORD1172,July,Groceries,Gujrat,114.56,131.09,5,0.35
+ORD1173,June,Novels,Assam,266.47,447.27,8,0.27
+ORD1174,December,Groceries,Delhi,656.23,-87.96,9,0.48
+ORD1175,September,Dress,Assam,1851.4,142.84,6,0.06
+ORD1176,July,Novels,Assam,1573.7,445.24,1,0.03
+ORD1177,Febuary,Dress,Assam,1535.0,202.5,3,0.22
+ORD1178,December,Novels,Gujrat,1634.11,58.45,4,0.02
+ORD1179,October,Dress,TamilNadu,547.11,-43.5,8,0.03
+ORD1180,November,Dress,Assam,1924.25,332.8,9,0.18
+ORD1181,April,Dress,Gujrat,1622.48,-19.37,1,0.27
+ORD1182,November,Dress,TamilNadu,61.93,466.42,9,0.13
+ORD1183,January,Novels,TamilNadu,111.01,482.77,8,0.26
+ORD1184,July,Novels,Delhi,858.51,251.71,8,0.19
+ORD1185,July,Dress,TamilNadu,534.21,190.02,9,0.31
+ORD1186,August,Furniture,Assam,1760.54,311.3,7,0.08
+ORD1187,March,Furniture,Gujrat,1185.63,148.59,8,0.12
+ORD1188,August,Pixel Phone,Gujrat,666.59,78.85,5,0.4
+ORD1189,May,Pixel Phone,TamilNadu,1844.76,214.65,8,0.49
+ORD1190,July,Furniture,Delhi,1635.84,71.93,7,0.33
+ORD1191,June,Novels,Gujrat,1135.67,448.1,5,0.33
+ORD1192,May,Dress,Delhi,98.43,297.6,5,0.21
+ORD1193,June,Groceries,Assam,1496.78,53.09,4,0.35
+ORD1194,June,Novels,Assam,683.19,499.58,7,0.19
+ORD1195,June,Groceries,TamilNadu,1285.43,161.31,3,0.18
+ORD1196,June,Groceries,Assam,1603.45,-72.08,6,0.09
+ORD1197,March,Dress,Assam,194.26,147.84,9,0.33
+ORD1198,April,Furniture,Gujrat,1074.1,49.85,6,0.34
+ORD1199,January,Pixel Phone,Delhi,657.88,264.55,6,0.47
+ORD1200,October,Novels,Gujrat,93.38,96.84,3,0.25
+ORD1201,January,Groceries,Gujrat,740.96,272.3,7,0.02
+ORD1202,July,Groceries,TamilNadu,1587.71,289.59,7,0.28
+ORD1203,January,Dress,Delhi,727.72,-67.72,1,0.31
+ORD1204,June,Dress,Assam,1007.76,166.49,9,0.0
+ORD1205,June,Groceries,TamilNadu,1264.98,67.0,4,0.24
+ORD1206,April,Novels,Delhi,1313.02,19.97,7,0.26
+ORD1207,May,Pixel Phone,TamilNadu,1797.16,63.05,8,0.03
+ORD1208,October,Pixel Phone,Delhi,803.78,247.92,1,0.07
+ORD1209,July,Furniture,Gujrat,133.93,-95.04,6,0.27
+ORD1210,December,Novels,Assam,352.73,485.71,6,0.2
+ORD1211,May,Novels,Gujrat,1810.97,359.61,4,0.36
+ORD1212,September,Furniture,Assam,1718.9,-46.14,4,0.28
+ORD1213,July,Novels,Assam,1308.84,209.64,6,0.06
+ORD1214,January,Furniture,TamilNadu,1667.73,128.6,5,0.41
+ORD1215,June,Novels,Delhi,394.8,77.45,3,0.41
+ORD1216,March,Furniture,Assam,291.57,287.57,1,0.2
+ORD1217,July,Dress,TamilNadu,1658.24,153.83,4,0.23
+ORD1218,August,Groceries,Delhi,113.0,114.67,7,0.03
+ORD1219,October,Furniture,TamilNadu,1179.36,359.6,2,0.41
+ORD1220,June,Dress,Assam,1461.73,377.76,1,0.37
+ORD1221,July,Furniture,Delhi,789.09,366.13,5,0.4
+ORD1222,March,Dress,Delhi,1348.53,487.8,9,0.06
+ORD1223,November,Dress,TamilNadu,1729.76,23.02,9,0.1
+ORD1224,November,Pixel Phone,Delhi,1513.63,95.9,1,0.33
+ORD1225,October,Furniture,Delhi,1535.46,373.53,2,0.28
+ORD1226,January,Dress,Assam,1870.87,6.07,6,0.36
+ORD1227,December,Pixel Phone,Delhi,1176.72,92.93,2,0.38
+ORD1228,October,Groceries,Gujrat,1760.19,-50.61,6,0.44
+ORD1229,August,Novels,Gujrat,847.67,-93.59,1,0.41
+ORD1230,August,Furniture,TamilNadu,1070.74,421.91,3,0.18
+ORD1231,June,Dress,TamilNadu,1098.93,235.94,9,0.34
+ORD1232,August,Novels,Gujrat,1519.18,44.67,4,0.08
+ORD1233,January,Groceries,Assam,652.12,190.72,1,0.1
+ORD1234,April,Pixel Phone,Gujrat,741.2,18.29,7,0.1
+ORD1235,December,Pixel Phone,TamilNadu,1543.34,-69.58,8,0.16
+ORD1236,June,Groceries,Delhi,1737.33,499.26,2,0.1
+ORD1237,December,Pixel Phone,TamilNadu,1669.89,-15.3,2,0.4
+ORD1238,August,Furniture,Delhi,590.19,426.43,7,0.1
+ORD1239,December,Pixel Phone,TamilNadu,1773.76,176.72,5,0.17
+ORD1240,January,Furniture,Delhi,236.93,43.57,8,0.36
+ORD1241,April,Groceries,Delhi,756.51,343.4,7,0.31
+ORD1242,July,Furniture,Assam,154.92,58.59,7,0.39
+ORD1243,October,Novels,Gujrat,638.66,349.37,1,0.45
+ORD1244,July,Dress,TamilNadu,1182.76,215.41,8,0.44
+ORD1245,January,Dress,TamilNadu,1615.96,-61.11,1,0.11
+ORD1246,June,Groceries,Delhi,1428.92,342.13,1,0.13
+ORD1247,December,Pixel Phone,Gujrat,1742.09,455.94,7,0.02
+ORD1248,Febuary,Pixel Phone,Delhi,858.74,311.17,6,0.44
+ORD1249,June,Dress,Delhi,1349.98,161.06,9,0.17
+ORD1250,November,Furniture,TamilNadu,1346.58,76.29,9,0.12
+ORD1251,March,Dress,Delhi,984.28,4.89,6,0.31
+ORD1252,Febuary,Novels,Assam,424.85,494.17,8,0.17
+ORD1253,December,Novels,Assam,1171.59,171.0,5,0.49
+ORD1254,April,Dress,Gujrat,1592.04,412.8,9,0.41
+ORD1255,June,Furniture,Delhi,264.89,335.94,7,0.39
+ORD1256,May,Pixel Phone,Gujrat,1353.81,24.46,8,0.09
+ORD1257,April,Dress,Assam,55.56,251.38,1,0.15
+ORD1258,January,Pixel Phone,Gujrat,1267.74,21.11,4,0.01
+ORD1259,January,Groceries,Assam,1771.99,-62.0,6,0.08
+ORD1260,June,Furniture,Assam,1636.28,126.43,2,0.07
+ORD1261,November,Novels,Assam,1541.5,431.17,1,0.07
+ORD1262,August,Groceries,Assam,232.9,-83.95,3,0.21
+ORD1263,January,Furniture,Gujrat,995.64,357.05,8,0.19
+ORD1264,December,Groceries,Delhi,948.34,402.34,8,0.2
+ORD1265,May,Pixel Phone,Delhi,795.84,6.61,9,0.19
+ORD1266,May,Furniture,Gujrat,1607.7,74.13,1,0.35
+ORD1267,January,Novels,Assam,746.61,169.01,3,0.29
+ORD1268,May,Furniture,Assam,508.44,229.65,2,0.4
+ORD1269,July,Novels,Gujrat,1193.64,35.81,4,0.42
+ORD1270,November,Novels,Assam,181.5,139.7,1,0.07
+ORD1271,July,Groceries,Gujrat,644.59,-93.87,3,0.23
+ORD1272,September,Pixel Phone,Delhi,826.64,46.56,6,0.04
+ORD1273,April,Novels,Gujrat,870.03,330.87,2,0.48
+ORD1274,January,Furniture,Gujrat,513.78,-61.23,5,0.48
+ORD1275,November,Groceries,Gujrat,1563.38,-66.47,3,0.49
+ORD1276,June,Furniture,TamilNadu,1879.15,125.65,6,0.29
+ORD1277,October,Furniture,Gujrat,1164.35,110.94,3,0.39
+ORD1278,Febuary,Groceries,Assam,1723.16,359.21,3,0.03
+ORD1279,June,Dress,Gujrat,1476.17,362.67,4,0.01
+ORD1280,May,Furniture,TamilNadu,143.51,323.35,7,0.44
+ORD1281,September,Groceries,Assam,1929.84,-79.38,1,0.31
+ORD1282,January,Dress,Assam,512.51,94.68,1,0.0
+ORD1283,January,Pixel Phone,Gujrat,1165.37,361.06,3,0.31
+ORD1284,August,Furniture,Assam,932.08,21.97,9,0.5
+ORD1285,May,Dress,Assam,1847.3,76.81,1,0.03
+ORD1286,March,Novels,Gujrat,67.74,261.57,8,0.38
+ORD1287,May,Novels,Assam,699.2,161.49,1,0.09
+ORD1288,November,Novels,Delhi,1309.02,367.12,9,0.42
+ORD1289,April,Novels,Delhi,1021.25,67.42,2,0.21
+ORD1290,September,Pixel Phone,TamilNadu,1590.74,366.0,5,0.23
+ORD1291,December,Furniture,Assam,767.85,106.09,6,0.28
+ORD1292,March,Dress,Delhi,1352.75,186.7,5,0.4
+ORD1293,April,Dress,TamilNadu,769.36,-4.65,2,0.02
+ORD1294,August,Pixel Phone,TamilNadu,1311.36,372.66,3,0.25
+ORD1295,December,Dress,Assam,260.44,213.71,5,0.08
+ORD1296,December,Furniture,Gujrat,1395.58,281.38,8,0.36
+ORD1297,January,Furniture,Gujrat,1478.02,171.3,6,0.01
+ORD1298,September,Pixel Phone,Gujrat,469.94,177.15,9,0.14
+ORD1299,August,Dress,Assam,465.15,144.55,3,0.44
+ORD1300,July,Furniture,Gujrat,1713.99,329.52,2,0.42
+ORD1301,June,Pixel Phone,Delhi,1262.57,376.98,4,0.27
+ORD1302,September,Novels,Assam,1520.55,341.14,2,0.44
+ORD1303,July,Dress,Delhi,242.24,235.23,8,0.04
+ORD1304,October,Groceries,Assam,692.59,0.56,8,0.32
+ORD1305,August,Pixel Phone,Delhi,710.59,-11.49,3,0.09
+ORD1306,January,Furniture,TamilNadu,1164.07,232.01,8,0.08
+ORD1307,July,Pixel Phone,Delhi,965.39,240.82,2,0.4
+ORD1308,January,Groceries,Assam,1078.36,201.27,2,0.42
+ORD1309,November,Furniture,Delhi,1489.62,-88.74,3,0.22
+ORD1310,June,Groceries,TamilNadu,622.34,-22.47,2,0.35
+ORD1311,November,Furniture,Assam,1084.71,-52.49,3,0.0
+ORD1312,August,Novels,Assam,1863.66,27.11,1,0.28
+ORD1313,November,Novels,Delhi,1396.98,195.18,4,0.14
+ORD1314,April,Novels,Assam,959.98,164.43,4,0.29
+ORD1315,May,Pixel Phone,TamilNadu,1201.97,442.34,2,0.39
+ORD1316,May,Furniture,Delhi,757.34,134.33,4,0.34
+ORD1317,January,Novels,Gujrat,1475.23,-98.93,1,0.09
+ORD1318,December,Dress,Delhi,1546.4,429.23,4,0.27
+ORD1319,March,Novels,Gujrat,1733.21,-65.08,6,0.16
+ORD1320,October,Groceries,TamilNadu,1640.14,421.7,3,0.36
+ORD1321,September,Groceries,TamilNadu,909.15,335.08,1,0.01
+ORD1322,May,Groceries,TamilNadu,1556.14,71.93,2,0.43
+ORD1323,June,Novels,Assam,1413.7,412.26,3,0.49
+ORD1324,December,Groceries,Gujrat,188.26,225.92,7,0.0
+ORD1325,August,Dress,Gujrat,1924.88,481.83,6,0.21
+ORD1326,July,Furniture,TamilNadu,395.93,372.75,5,0.24
+ORD1327,Febuary,Pixel Phone,Assam,138.85,386.67,1,0.47
+ORD1328,June,Furniture,Gujrat,756.25,124.02,2,0.03
+ORD1329,November,Novels,Delhi,1611.37,251.81,3,0.44
+ORD1330,November,Dress,TamilNadu,1169.6,428.51,5,0.11
+ORD1331,November,Furniture,Delhi,182.15,299.49,9,0.48
+ORD1332,Febuary,Pixel Phone,Gujrat,78.56,372.09,1,0.47
+ORD1333,June,Dress,Gujrat,272.07,140.44,4,0.4
+ORD1334,September,Groceries,Gujrat,271.49,167.94,2,0.24
+ORD1335,March,Dress,Gujrat,1992.36,264.5,9,0.18
+ORD1336,January,Furniture,Delhi,622.48,-15.55,3,0.2
+ORD1337,November,Dress,Assam,1554.87,98.88,4,0.33
+ORD1338,November,Novels,Gujrat,919.2,141.58,5,0.21
+ORD1339,September,Groceries,Assam,406.48,389.75,4,0.17
+ORD1340,August,Dress,Assam,1302.26,390.93,1,0.02
+ORD1341,August,Dress,Assam,318.48,-7.78,6,0.0
+ORD1342,July,Furniture,TamilNadu,1522.76,422.55,3,0.17
+ORD1343,September,Groceries,Gujrat,229.74,254.67,8,0.18
+ORD1344,Febuary,Dress,Gujrat,512.22,50.19,4,0.24
+ORD1345,January,Groceries,Gujrat,86.83,432.69,6,0.26
+ORD1346,November,Furniture,Gujrat,1098.1,24.67,3,0.2
+ORD1347,May,Groceries,TamilNadu,1168.5,95.59,5,0.24
+ORD1348,July,Novels,Assam,910.3,24.78,9,0.38
+ORD1349,December,Pixel Phone,TamilNadu,195.49,27.55,3,0.04
+ORD1350,April,Novels,Assam,290.83,190.79,4,0.07
+ORD1351,May,Dress,Assam,798.66,332.01,1,0.1
+ORD1352,Febuary,Pixel Phone,Gujrat,1695.86,350.91,7,0.21
+ORD1353,June,Pixel Phone,Gujrat,1003.89,-34.66,4,0.33
+ORD1354,November,Novels,Assam,854.4,162.56,7,0.34
+ORD1355,January,Novels,Delhi,1341.74,288.46,9,0.07
+ORD1356,March,Groceries,TamilNadu,1269.04,-90.17,4,0.46
+ORD1357,October,Dress,Gujrat,1154.44,150.82,5,0.06
+ORD1358,August,Furniture,Delhi,986.16,474.37,2,0.24
+ORD1359,March,Groceries,Gujrat,1535.58,425.17,6,0.07
+ORD1360,July,Groceries,Gujrat,1199.82,216.67,7,0.49
+ORD1361,January,Furniture,TamilNadu,925.09,461.76,8,0.49
+ORD1362,December,Dress,Delhi,1447.81,380.81,8,0.44
+ORD1363,October,Dress,Gujrat,352.93,365.38,9,0.46
+ORD1364,Febuary,Furniture,TamilNadu,264.64,-30.73,1,0.49
+ORD1365,August,Pixel Phone,Delhi,1292.51,350.5,6,0.27
+ORD1366,December,Pixel Phone,TamilNadu,1284.9,-68.27,2,0.21
+ORD1367,Febuary,Novels,TamilNadu,1290.32,400.13,6,0.43
+ORD1368,December,Pixel Phone,Assam,1053.49,405.85,1,0.25
+ORD1369,April,Novels,TamilNadu,970.64,179.24,8,0.01
+ORD1370,June,Dress,Gujrat,546.12,241.0,2,0.2
+ORD1371,March,Furniture,TamilNadu,495.12,461.47,5,0.31
+ORD1372,June,Groceries,Gujrat,889.37,147.2,2,0.03
+ORD1373,August,Novels,Gujrat,879.17,360.75,6,0.35
+ORD1374,November,Groceries,Assam,1802.22,69.3,4,0.13
+ORD1375,Febuary,Furniture,Assam,1215.06,-30.37,8,0.08
+ORD1376,September,Furniture,Assam,835.67,-29.69,7,0.24
+ORD1377,October,Novels,Delhi,145.38,344.85,4,0.28
+ORD1378,December,Groceries,Gujrat,1593.71,123.32,1,0.11
+ORD1379,Febuary,Novels,Gujrat,1753.54,-63.94,5,0.36
+ORD1380,September,Furniture,Delhi,1293.46,-55.72,3,0.16
+ORD1381,July,Pixel Phone,Assam,474.91,65.32,1,0.28
+ORD1382,Febuary,Novels,Gujrat,1900.12,492.12,5,0.3
+ORD1383,July,Dress,Delhi,1390.66,306.24,6,0.5
+ORD1384,September,Dress,Assam,156.61,-11.99,7,0.21
+ORD1385,April,Novels,TamilNadu,97.18,253.83,5,0.33
+ORD1386,December,Groceries,Delhi,1460.56,389.15,9,0.22
+ORD1387,December,Groceries,Gujrat,930.38,-12.94,7,0.05
+ORD1388,July,Furniture,Gujrat,1727.68,-69.64,4,0.02
+ORD1389,March,Furniture,Gujrat,1678.71,-14.15,6,0.12
+ORD1390,April,Pixel Phone,TamilNadu,248.85,104.06,1,0.24
+ORD1391,November,Dress,TamilNadu,744.67,-18.43,7,0.33
+ORD1392,November,Dress,Assam,1348.6,-66.27,2,0.01
+ORD1393,April,Furniture,Assam,691.5,179.35,5,0.05
+ORD1394,August,Pixel Phone,Delhi,323.7,118.78,8,0.13
+ORD1395,March,Dress,Gujrat,290.11,348.31,5,0.04
+ORD1396,Febuary,Dress,TamilNadu,846.94,189.94,3,0.16
+ORD1397,Febuary,Furniture,Assam,1346.6,172.51,6,0.39
+ORD1398,April,Pixel Phone,Delhi,1844.64,-44.0,4,0.43
+ORD1399,November,Novels,Delhi,1127.65,102.55,7,0.44
+ORD1400,November,Dress,Gujrat,1132.7,403.28,4,0.35
+ORD1401,July,Novels,Delhi,1028.64,87.39,9,0.27
+ORD1402,March,Pixel Phone,Delhi,1176.76,138.23,3,0.06
+ORD1403,January,Novels,Assam,1455.61,93.83,2,0.3
+ORD1404,May,Dress,Gujrat,574.52,473.96,8,0.33
+ORD1405,May,Dress,Gujrat,1713.42,412.04,1,0.2
+ORD1406,April,Novels,Gujrat,1610.58,-10.56,8,0.02
+ORD1407,July,Pixel Phone,TamilNadu,651.1,203.06,5,0.14
+ORD1408,September,Novels,Delhi,1529.02,396.15,1,0.22
+ORD1409,July,Novels,TamilNadu,1994.04,342.07,4,0.19
+ORD1410,April,Furniture,Delhi,1966.98,416.27,1,0.07
+ORD1411,October,Furniture,Assam,1030.39,66.74,7,0.17
+ORD1412,September,Furniture,Gujrat,1253.92,-41.99,1,0.05
+ORD1413,May,Dress,TamilNadu,1368.48,236.89,3,0.27
+ORD1414,June,Furniture,Delhi,819.28,65.66,3,0.18
+ORD1415,October,Pixel Phone,TamilNadu,1115.52,376.87,7,0.12
+ORD1416,May,Furniture,TamilNadu,1023.42,205.91,6,0.38
+ORD1417,August,Dress,Assam,322.86,12.78,6,0.46
+ORD1418,September,Dress,Assam,229.42,428.23,1,0.17
+ORD1419,September,Pixel Phone,Gujrat,123.02,-77.85,6,0.38
+ORD1420,March,Groceries,Assam,1238.65,14.65,4,0.08
+ORD1421,January,Novels,Gujrat,1631.8,66.31,8,0.24
+ORD1422,July,Novels,Assam,504.8,254.98,9,0.02
+ORD1423,September,Dress,Gujrat,58.51,252.09,9,0.17
+ORD1424,December,Furniture,Gujrat,1458.16,-65.46,4,0.12
+ORD1425,March,Furniture,Assam,1734.22,80.6,5,0.25
+ORD1426,September,Novels,TamilNadu,1093.08,362.47,3,0.23
+ORD1427,October,Furniture,Assam,606.4,241.28,6,0.39
+ORD1428,May,Furniture,TamilNadu,1490.3,263.74,7,0.06
+ORD1429,April,Furniture,Assam,146.27,258.65,7,0.26
+ORD1430,December,Groceries,Gujrat,674.13,400.22,8,0.19
+ORD1431,December,Groceries,Assam,1126.97,275.84,3,0.17
+ORD1432,September,Pixel Phone,Assam,737.63,479.35,7,0.22
+ORD1433,May,Novels,TamilNadu,1471.02,263.38,8,0.3
+ORD1434,June,Dress,Delhi,1390.87,154.6,1,0.17
+ORD1435,October,Novels,Assam,1474.05,-8.81,2,0.03
+ORD1436,July,Groceries,Delhi,1078.23,486.52,7,0.07
+ORD1437,Febuary,Dress,TamilNadu,1577.74,99.93,8,0.16
+ORD1438,November,Dress,Gujrat,1060.63,-24.48,9,0.47
+ORD1439,June,Pixel Phone,Assam,1192.01,127.52,8,0.07
+ORD1440,November,Groceries,Assam,1408.67,259.71,1,0.27
+ORD1441,December,Furniture,Delhi,1215.63,198.79,4,0.22
+ORD1442,April,Pixel Phone,Gujrat,661.83,366.55,7,0.35
+ORD1443,October,Groceries,Assam,720.32,27.61,9,0.11
+ORD1444,October,Furniture,TamilNadu,1744.66,65.35,4,0.15
+ORD1445,December,Furniture,Delhi,515.06,-81.0,9,0.05
+ORD1446,January,Novels,Gujrat,1599.13,425.0,7,0.03
+ORD1447,June,Groceries,Assam,177.53,-57.44,7,0.1
+ORD1448,October,Dress,Assam,1982.08,93.32,3,0.43
+ORD1449,May,Dress,Delhi,746.8,3.06,1,0.27
+ORD1450,September,Novels,Delhi,1450.15,-95.75,1,0.22
+ORD1451,May,Pixel Phone,Gujrat,235.88,54.01,8,0.22
+ORD1452,August,Dress,Delhi,1732.56,144.14,1,0.17
+ORD1453,October,Novels,Assam,1790.62,359.82,9,0.31
+ORD1454,August,Furniture,Gujrat,480.73,282.24,9,0.05
+ORD1455,December,Groceries,Gujrat,92.89,286.63,4,0.12
+ORD1456,Febuary,Furniture,Gujrat,1403.5,121.85,8,0.46
+ORD1457,January,Groceries,Assam,1534.03,168.55,7,0.41
+ORD1458,March,Furniture,Assam,375.7,193.01,5,0.05
+ORD1459,August,Novels,Assam,1283.77,-49.61,7,0.29
+ORD1460,January,Groceries,Delhi,584.27,233.52,1,0.05
+ORD1461,September,Groceries,Delhi,1842.86,-75.16,6,0.1
+ORD1462,December,Furniture,Assam,1715.37,69.47,9,0.38
+ORD1463,March,Groceries,Delhi,1078.84,446.84,7,0.01
+ORD1464,January,Dress,Gujrat,1376.97,411.57,1,0.04
+ORD1465,April,Furniture,Delhi,1109.61,305.51,6,0.11
+ORD1466,September,Novels,TamilNadu,1249.19,-31.32,6,0.3
+ORD1467,April,Dress,Delhi,999.72,351.24,7,0.37
+ORD1468,July,Pixel Phone,TamilNadu,631.9,158.51,8,0.36
+ORD1469,March,Pixel Phone,TamilNadu,1680.48,376.9,7,0.48
+ORD1470,Febuary,Dress,Gujrat,406.84,1.64,1,0.32
+ORD1471,Febuary,Novels,TamilNadu,1123.44,144.91,4,0.27
+ORD1472,April,Groceries,Delhi,1233.09,-32.61,8,0.15
+ORD1473,September,Furniture,TamilNadu,124.62,140.76,3,0.3
+ORD1474,January,Furniture,Gujrat,796.99,-59.4,3,0.13
+ORD1475,March,Furniture,Delhi,858.27,91.5,7,0.28
+ORD1476,March,Furniture,Delhi,861.37,440.32,7,0.15
+ORD1477,July,Dress,Gujrat,374.53,310.83,2,0.1
+ORD1478,July,Furniture,Gujrat,1139.09,58.53,5,0.46
+ORD1479,August,Groceries,Assam,371.61,57.44,5,0.16
+ORD1480,May,Novels,Delhi,260.37,488.71,5,0.29
+ORD1481,June,Furniture,Gujrat,815.21,433.89,3,0.4
+ORD1482,March,Dress,Delhi,1619.52,75.57,1,0.14
+ORD1483,September,Pixel Phone,Delhi,1479.22,437.2,6,0.2
+ORD1484,June,Furniture,TamilNadu,1042.79,214.53,8,0.25
+ORD1485,March,Pixel Phone,Delhi,1835.23,89.51,7,0.45
+ORD1486,January,Novels,Delhi,122.37,215.93,1,0.32
+ORD1487,Febuary,Novels,Assam,1065.02,361.12,9,0.36
+ORD1488,March,Groceries,Delhi,776.09,340.1,1,0.03
+ORD1489,December,Novels,Delhi,1126.08,196.42,5,0.28
+ORD1490,June,Novels,Assam,1201.68,186.08,5,0.41
+ORD1491,May,Dress,Delhi,1954.79,28.82,9,0.02
+ORD1492,December,Novels,Gujrat,1449.95,77.32,7,0.5
+ORD1493,June,Groceries,TamilNadu,299.77,23.55,1,0.2
+ORD1494,March,Groceries,Delhi,636.24,391.48,7,0.35
+ORD1495,August,Dress,Delhi,602.28,-73.36,6,0.05
+ORD1496,October,Pixel Phone,Gujrat,1660.09,348.87,8,0.04
+ORD1497,December,Groceries,TamilNadu,997.58,225.63,5,0.19
+ORD1498,June,Furniture,Delhi,917.79,328.2,3,0.19
+ORD1499,January,Furniture,Gujrat,1871.02,337.69,7,0.45
