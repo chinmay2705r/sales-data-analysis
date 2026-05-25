@@ -1,7 +1,6 @@
 # Sales Performance Analysis
 
-**Author:** Chinmay Kumar Gupta  
-**College:** Harcourt Butler Technical University (HBTU), Kanpur  
+**Author:** Chinmay Kumar Gupta    
 **Tools:** Python, Pandas, Matplotlib, Seaborn  
 
 ---
